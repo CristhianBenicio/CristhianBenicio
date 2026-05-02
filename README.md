@@ -10,8 +10,8 @@
 ## 🧠 Sobre mim
 Atuo com infraestrutura de redes e segurança da informação em ambientes corporativos, com experiência em:
 
-- 🔹 Firewalls e redes (roteamento, NAT, VPN)
-- 🔹 pfSense e FortiGate
+- 🔹 Firewalls e redes (pfSense, MK e FortiGate)
+- 🔹 Virtualização (Hper-v, Vmware, Citrix )
 - 🔹 Git | Terraform | Ansible
 - 🔹 Monitoramento com Zabbix, Grafana e Prometheus
 - 🔹 Segurança com Suricata (IDS)
