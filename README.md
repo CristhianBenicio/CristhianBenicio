@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+<!-- Cabeçalhos -->
 
 # 👋 Olá, eu sou o Cristhian Benicio
 
@@ -17,9 +17,8 @@ Atuo com infraestrutura de redes e segurança da informação em ambientes corpo
 - 🔹 Segurança com Suricata (IDS)
 - 🔹 Administração de sistemas Linux
 - 🔹 Virtualização com Proxmox
-### Título 3 
 
-Tenho foco em:
+### Tenho foco em:
 
 ✔️ Alta disponibilidade  
 ✔️ Segurança da informação  
