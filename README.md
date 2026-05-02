@@ -2,20 +2,12 @@
 
 <!--
 
-# Título 1
-
-## Título 2 
-
-### Título 3 
 # 👋 Olá, eu sou o Cristhian Benicio
 
 💻 Analista de Infraestrutura | DevOps | Segurança da Informação  
 🚀 Técnico em Automação Industrial | Gestão de TI | Engenharia de Redes 
 
----
-
 ## 🧠 Sobre mim
-
 Atuo com infraestrutura de redes e segurança da informação em ambientes corporativos, com experiência em:
 
 - 🔹 Firewalls e redes (roteamento, NAT, VPN)
@@ -25,6 +17,7 @@ Atuo com infraestrutura de redes e segurança da informação em ambientes corpo
 - 🔹 Segurança com Suricata (IDS)
 - 🔹 Administração de sistemas Linux
 - 🔹 Virtualização com Proxmox
+### Título 3 
 
 Tenho foco em:
 
