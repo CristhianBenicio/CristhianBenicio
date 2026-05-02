@@ -31,7 +31,7 @@ Atuo com infraestrutura de redes e segurança da informação em ambientes corpo
 ## ⚙️ Tecnologias
 
 - 🐧 Linux
-- 🌐 Redes e protocolos (TCP/IP, VPN, VLAN)
+- 🌐 Redes e protocolos
 - 🔐 Segurança da informação
 - 📊 Monitoramento (Zabbix | Grafana | Prometheus)
 - ⚙️ Automação (Shell Script | Ansible | Terraform)
@@ -46,10 +46,8 @@ Busco evoluir na área de infraestrutura e segurança, contribuindo com soluçõ
 
 ## 📫 Contato
 
-- 📧 Email: seuemail@email.com
-- 💼 LinkedIn: linkedin.com/in/seu-link-aqui
+- 📧 Email: benicio.henrique2016@gmail.com
+- 💼 LinkedIn: linkedin.com/in/cristhian-benicio-987788172
 
 ---
-
-⭐ Sempre aprendendo e evoluindo na área de tecnologia!
 -->
