@@ -1,16 +1,63 @@
 ## Hi there 👋
 
 <!--
-**CristhianBenicio/CristhianBenicio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Título 1
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Título 2 
+
+### Título 3 
+# 👋 Olá, eu sou o Cristhian Benicio
+
+💻 Analista de Infraestrutura | DevOps | Segurança da Informação  
+🚀 Técnico em Automação Industrial | Gestão de TI | Engenharia de Redes 
+
+---
+
+## 🧠 Sobre mim
+
+Atuo com infraestrutura de redes e segurança da informação em ambientes corporativos, com experiência em:
+
+- 🔹 Firewalls e redes (roteamento, NAT, VPN)
+- 🔹 pfSense e FortiGate
+- 🔹 Git | Terraform | Ansible
+- 🔹 Monitoramento com Zabbix, Grafana e Prometheus
+- 🔹 Segurança com Suricata (IDS)
+- 🔹 Administração de sistemas Linux
+- 🔹 Virtualização com Proxmox
+
+Tenho foco em:
+
+✔️ Alta disponibilidade  
+✔️ Segurança da informação  
+✔️ Automação de processos  
+✔️ Monitoramento e observabilidade  
+✔️ Melhoria contínua de ambientes  
+
+---
+
+## ⚙️ Tecnologias
+
+- 🐧 Linux
+- 🌐 Redes e protocolos (TCP/IP, VPN, VLAN)
+- 🔐 Segurança da informação
+- 📊 Monitoramento (Zabbix | Grafana | Prometheus)
+- ⚙️ Automação (Shell Script | Ansible | Terraform)
+
+---
+
+## 📈 Objetivo
+
+Busco evoluir na área de infraestrutura e segurança, contribuindo com soluções escaláveis, seguras e automatizadas, alinhadas às melhores práticas do mercado.
+
+---
+
+## 📫 Contato
+
+- 📧 Email: seuemail@email.com
+- 💼 LinkedIn: linkedin.com/in/seu-link-aqui
+
+---
+
+⭐ Sempre aprendendo e evoluindo na área de tecnologia!
 -->
