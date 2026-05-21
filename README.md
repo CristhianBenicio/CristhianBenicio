@@ -58,10 +58,10 @@ Experiência envolvendo automação de infraestrutura, plataformas de monitorame
 ### 🌐 Infraestrutura & Segurança
 
 * Linux
-* MikroTik
+* Microsft (Ecossistema)
 * FortiGate
-* WireGuard
-* Suricata IDS
+* Mikrotik MTCNA
+* Suricata 
 
 ---
 
