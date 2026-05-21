@@ -1,37 +1,38 @@
 # 👨‍💻 Cristhian H. Benicio
 
-🚀 QA Automation Engineer | DevOps | Power Platform Specialist
+🚀 QA Automation | DevOps | Power Platform
 
 ---
 
-## 🧠 About Me
+## 🧠 Sobre:
 
-Profissional focado em QA Automation, automação de infraestrutura e observabilidade, atuando em ambientes corporativos com monitoramento, segurança da informação, integração de sistemas e automação de processos.
+Profissional focado em QA Automation, DevOps e observabilidade de infraestrutura, atuando com automação, monitoramento, pipelines CI/CD e ambientes corporativos.
 
+Experiência envolvendo automação de infraestrutura, plataformas de monitoramento, soluções Power Platform, segurança da informação e otimização de processos.
 
-Passionate about:
+### 🎯 Principais áreas de interesse
 
-* Automated testing
-* CI/CD pipelines
-* Power Platform solutions
-* Infrastructure automation
-* Monitoring and observability
-* Process optimization
+* Testes automatizados
+* Pipelines CI/CD
+* Soluções Power Platform
+* Automação de infraestrutura
+* Monitoramento e observabilidade
+* Otimização de processos
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Stack 
 
 ### 🧪 QA Automation
 
-* PowerShell Automation
-* API Testing
-* Automated Validation
-* Test Scenarios
+* Automação com PowerShell
+* Testes de API
+* Validações automatizadas
+* Cenários de teste
 * GitHub Actions
 * CI/CD
 
-### ⚡ DevOps & Automation
+### ⚡ DevOps & Automação
 
 * Git
 * GitHub
@@ -45,16 +46,16 @@ Passionate about:
 * Power Apps
 * Power Automate
 * SharePoint
-* Office 365 Integration
+* Integração Office 365
 
-### 📊 Monitoring & Observability
+### 📊 Monitoramento & Observabilidade
 
 * Zabbix
 * Grafana
 * Prometheus
 * Elasticsearch
 
-### 🌐 Infrastructure & Security
+### 🌐 Infraestrutura & Segurança
 
 * Linux
 * MikroTik
@@ -64,28 +65,27 @@ Passionate about:
 
 ---
 
-## 🚧 Featured Projects
+## 🚧 Projetos em Destaque
 
-🔹 QA Automation Scripts in PowerShell
-🔹 Network Monitoring Dashboard
-🔹 Power Apps Project Management System
-🔹 CI/CD Automation Pipelines
-🔹 Infrastructure Monitoring Environment
+🔹 Plataforma de observabilidade utilizando PowerShell
+🔹 Automação de pipelines CI/CD com GitHub Actions
+🔹 Ambiente de gerenciamento de projetos com Power Apps
+🔹 Dashboards de monitoramento com Grafana e Prometheus
 
 ---
 
-## 📈 Currently Learning
+## 📈 Atualmente Estudando
 
 * Selenium
 * Playwright
 * Docker
 * Kubernetes
-* Advanced GitHub Actions
-* SRE Practices
+* GitHub Actions Avançado
+* Práticas SRE
 
 ---
 
-## 📫 Contact
+## 📫 Contato
 
 📧 [benicio.henrique2016@gmail.com](mailto:benicio.henrique2016@gmail.com)
 
