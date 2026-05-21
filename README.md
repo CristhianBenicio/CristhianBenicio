@@ -6,7 +6,8 @@
 
 ## 🧠 About Me
 
-Professional focused on QA Automation, infrastructure automation and observability, with experience in corporate environments involving monitoring, security and process automation.
+Profissional focado em QA Automation, automação de infraestrutura e observabilidade, atuando em ambientes corporativos com monitoramento, segurança da informação, integração de sistemas e automação de processos.
+
 
 Passionate about:
 
