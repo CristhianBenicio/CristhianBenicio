@@ -1,53 +1,92 @@
-## Bem vindo ao meu GitHub 👋
+# 👨‍💻 Cristhian H. Benicio
 
-<!-- Cabeçalhos -->
-
-# Olá, eu sou o Cristhian H.  Benicio!
-
-💻 Analista de Infraestrutura | DevOps | Segurança da Informação  
-🚀 Técnico em Automação Industrial | Gestão de TI | Engenharia de Redes 
-
-## 🧠 Sobre mim
-Atuo com infraestrutura de redes e segurança da informação em ambientes corporativos, com experiência em:
-
-- 🔹 Firewalls e redes (pfSense, MK e FortiGate)
-- 🔹 Virtualização (Hper-v, Vmware, Citrix )
-- 🔹 Git | Terraform | Ansible
-- 🔹 Monitoramento com Zabbix, Grafana e Prometheus
-- 🔹 Segurança com Suricata (IDS)
-- 🔹 Administração de sistemas Linux
-- 🔹 Virtualização com Proxmox
-
-### Tenho foco em:
-
-✔️ Alta disponibilidade  
-✔️ Segurança da informação  
-✔️ Automação de processos  
-✔️ Monitoramento e observabilidade  
-✔️ Melhoria contínua de ambientes  
+🚀 QA Automation Engineer | DevOps | Power Platform Specialist
 
 ---
 
-## ⚙️ Tecnologias
+## 🧠 About Me
 
-- 🐧 Linux
-- 🌐 Redes e protocolos
-- 🔐 Segurança da informação
-- 📊 Monitoramento (Zabbix | Grafana | Prometheus)
-- ⚙️ Automação (Shell Script | Ansible | Terraform)
+Professional focused on QA Automation, infrastructure automation and observability, with experience in corporate environments involving monitoring, security and process automation.
+
+Passionate about:
+
+* Automated testing
+* CI/CD pipelines
+* Power Platform solutions
+* Infrastructure automation
+* Monitoring and observability
+* Process optimization
+
+---
+
+## ⚙️ Tech Stack
+
+### 🧪 QA Automation
+
+* PowerShell Automation
+* API Testing
+* Automated Validation
+* Test Scenarios
+* GitHub Actions
+* CI/CD
+
+### ⚡ DevOps & Automation
+
+* Git
+* GitHub
+* GitLab CI/CD
+* Terraform
+* Ansible
+* Shell Script
+
+### 🖥️ Power Platform
+
+* Power Apps
+* Power Automate
+* SharePoint
+* Office 365 Integration
+
+### 📊 Monitoring & Observability
+
+* Zabbix
+* Grafana
+* Prometheus
+* Elasticsearch
+
+### 🌐 Infrastructure & Security
+
+* Linux
+* MikroTik
+* FortiGate
+* WireGuard
+* Suricata IDS
 
 ---
 
-## 📈 Objetivo
+## 🚧 Featured Projects
 
-Busco evoluir na área de infraestrutura e segurança, contribuindo com soluções escaláveis, seguras e automatizadas, alinhadas às melhores práticas do mercado.
+🔹 QA Automation Scripts in PowerShell
+🔹 Network Monitoring Dashboard
+🔹 Power Apps Project Management System
+🔹 CI/CD Automation Pipelines
+🔹 Infrastructure Monitoring Environment
+
+---
+
+## 📈 Currently Learning
+
+* Selenium
+* Playwright
+* Docker
+* Kubernetes
+* Advanced GitHub Actions
+* SRE Practices
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
-- 📧 Email: benicio.henrique2016@gmail.com
-- 💼 LinkedIn: linkedin.com/in/cristhian-benicio-987788172
+📧 [benicio.henrique2016@gmail.com](mailto:benicio.henrique2016@gmail.com)
 
----
--->
+💼 LinkedIn:
+linkedin.com/in/cristhian-benicio-987788172
